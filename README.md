@@ -4,7 +4,7 @@
 
 ### 🌟 Software Developer in Transition | 🌍 Kenya | 💻 Open to Opportunities
 
-Passionate about leveraging technology to create innovative solutions, I am on a journey to transition from a logistics reconciliation clerk in the cement manufacturing industry to a skilled software developer. My focus is on mastering:
+Passionate about leveraging technology to create innovative solutions, I am on a journey to transition from cement manufacturing industry to a skilled software developer. My focus is on mastering:
 
 **⚡ Technologies:** React, Ruby, Ruby on Rails, HTML, CSS, and Tailwind CSS.
 
